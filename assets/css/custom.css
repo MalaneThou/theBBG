@@ -67,8 +67,19 @@ h1,h2,h3,h4,h5,h6 {
 
 footer {
   padding: 50px;
+  background-color: #222222;
+  color: white;
 }
 
 #request {
+  margin-top: 100px;
+}
+
+#careers {
+  margin-top: 100px;
+}
+
+
+#team {
   margin-top: 100px;
 }
