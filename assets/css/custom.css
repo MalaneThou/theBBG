@@ -47,3 +47,28 @@ h1,h2,h3,h4,h5,h6 {
   text-align: center;
   color: white;
 }
+
+
+
+#chiropractic-hero {
+  background: url('../img/Water-Drops.jpg');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding: 10%;
+  text-align: center;
+  color: white;
+}
+
+#pricing {
+  background-color: #F3F3F3;
+  padding: 50px;
+}
+
+footer {
+  padding: 50px;
+}
+
+#request {
+  margin-top: 100px;
+}
