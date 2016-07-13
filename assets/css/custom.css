@@ -37,3 +37,13 @@ h1,h2,h3,h4,h5,h6 {
 .navbar-inverse {
   border: none;
 }
+
+#facebook-hero {
+  background: url('../img/Lake.jpg');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding: 10%;
+  text-align: center;
+  color: white;
+}
